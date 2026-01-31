@@ -45,8 +45,3 @@ With just a glance, the dashboard empowers you to:
 
 
 
----
-
-## 🖼 Dashboard Preview
-
-![Dashboard](screenshots/dashboard.png)
